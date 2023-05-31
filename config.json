@@ -3,6 +3,6 @@
     "mysqlhost" : "localhost" ,
     "mysqlport" : 3306 ,
     "mysqluser" : "root" ,
-    "mysqlpwd"  : "!!!Zpc20100709" ,
+    "mysqlpwd"  : "" ,
     "mysqldb"   : "test" 
 }
