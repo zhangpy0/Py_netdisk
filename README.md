@@ -6,7 +6,7 @@
 - （可以当靶场用，全是漏洞，以后有时间再改🥰）
 
 ## 使用方法：
-- 1.clone项目到本地 `git clone https://github.com/zhangpy0/Py_netdisk.git`
+- 1.clone项目到本地 `git clone https://github.com/zhangpy0/Py_netdisk.git` 并进入文件夹 `cd Py_netdisk`
 - 2.安装依赖 `pip install -r requirements.txt`
 - 3.mysql数据库配置
     - 3.1.创建数据库 `create database netdisk;`
