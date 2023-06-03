@@ -51,7 +51,7 @@ class Mysql:
         
 if __name__ == '__main__':
     mysql = Mysql()
-    mysql.delete('zpc')
+    mysql.delete('6')
     mysql.print()
     mysql.close()
     
